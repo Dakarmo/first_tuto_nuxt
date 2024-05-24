@@ -1,0 +1,15 @@
+<template>
+  <a  @click.prevent="useRouter().back()" href="#" class="text-sm mb-5 italic flex items-center gap-3 no-underline">
+     
+     <Icon name="mdi:arrow-left"/>
+       Retour
+  </a>
+</template>
+
+<script lang="ts" setup>
+
+</script>
+
+<style>
+
+</style>

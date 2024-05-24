@@ -1,5 +1,10 @@
 <template>
+  <!-- <CustomHello /> -->
   <div>
-    <NuxtWelcome />
+    <!-- Composant permettant d'afficher le contenu du dossier page -->
+    
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>

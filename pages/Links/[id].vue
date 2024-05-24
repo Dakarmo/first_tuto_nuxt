@@ -24,7 +24,7 @@
 
 </script>
 
-<style scoped>
+<style >
   label {
     @apply block mb-2 text-sm font-medium text-gray-900;
   }

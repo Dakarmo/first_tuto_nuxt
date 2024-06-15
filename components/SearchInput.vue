@@ -7,7 +7,7 @@
       class="pl-10 inline-block"
       v-model="modelValue"
     >
-    <p>{{ modelValue }}</p>
+    <!-- <p>{{ modelValue }}</p> -->
   </div>
 </template>
 
